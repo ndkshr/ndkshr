@@ -10,9 +10,9 @@
 
 ### Reach Out
 <p align="left">
-<a href="https://twitter.com/ndkshr" target="blank"><img align="center" src="social/twitter.jpeg" alt="chrisbanes" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ndkshr" target="blank"><img align="center" src="social/linkedin.jpeg" alt="chrisbanes" height="30" width="40" /></a>
-<a href="https://medium.com/ndkshr" target="blank"><img align="center" src="social/medium.jpeg" alt="chrisbanes" height="30" width="40" /></a>
+<a href="https://twitter.com/ndkshr" target="blank"><img align="center" src="https://raw.githubusercontent.com/ndkshr/ndkshr/main/social_icons/twitter.png" alt="Twitter" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ndkshr" target="blank"><img align="center" src="https://raw.githubusercontent.com/ndkshr/ndkshr/main/social_icons/linkedin.png" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://medium.com/ndkshr" target="blank"><img align="center" src="https://raw.githubusercontent.com/ndkshr/ndkshr/main/social_icons/medium.png" alt="Medium" height="30" width="40" /></a>
 </p>
 
 ---
