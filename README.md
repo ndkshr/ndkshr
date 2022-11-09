@@ -17,7 +17,7 @@
 
 or
 
-📧 [mailto:nandugops+reachoutgithub@gmail.com](nandugops@gmail.com)
+📧 [nandugops@gmail.com](mailto:nandugops+reachoutgithub@gmail.com)
 
 ---
 > Credits: Ruslan Babkin - Flaticon
