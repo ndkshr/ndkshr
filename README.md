@@ -1,5 +1,5 @@
-- Grad @ San Jose State University
-- Previously Android at [Practo](https://www.practo.com/), [Dailyhunt](https://www.dailyhunt.in/), and [Josh](https://myjosh.in/).
+- 📚 Grad @ San Jose State University
+- 🛠️ Previously, Android at [Practo](https://www.practo.com/), [Dailyhunt](https://www.dailyhunt.in/), and [Josh](https://myjosh.in/).
 
 ### Reach Out:
 <p align="left">
