@@ -4,10 +4,6 @@
 - Grad @ San Jose State University
 - Previously Android at Practo, Dailyhunt, and Josh.
 
-[![How Often...?](https://github-readme-stats.vercel.app/api?username=ndkshr)](https://github.com/ndkshr)
-
-[![What I Use...?](https://github-readme-stats.vercel.app/api/top-langs/?username=ndkshr&layout=compact)](https://github.com/ndkshr)
-
 ### Reach Out:
 <p align="left">
 <a href="https://twitter.com/ndkshr" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/ndkshr/ndkshr/main/social_icons/twitter.png" alt="Twitter" height="30" width="30" /></a>
