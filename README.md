@@ -1,6 +1,16 @@
-- 📚 Grad @ San Jose State University
-- Currently, Android at [Lucid Motors](https://lucidmotors.com); Working on Lucid Maps Navigation and Lucid Assistant - Alexa.
-- 🛠️ Previously, Android at [Practo](https://www.practo.com/), [Dailyhunt](https://www.dailyhunt.in/), and [Josh](https://myjosh.in/).
+
+## 📚 Edu
+- Grad @ San Jose State University
+- Undergrad @ Kerala Technological University
+
+
+## 🛠️ Work
+- Currently:
+  - Android at [Lucid Motors](https://lucidmotors.com); Working on Lucid Maps Navigation and Lucid Assistant - Alexa.
+- Previously
+  - Android at [Josh](https://myjosh.in/); Working in the Video Engineering Team for Android.
+  - Android at [Dailyhunt](https://www.dailyhunt.in/); DHTV for Android Team.
+  - Android at [Practo](https://www.practo.com/)
 
 ### Reach Out:
 <p align="left">
