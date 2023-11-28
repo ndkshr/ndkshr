@@ -6,7 +6,7 @@
 
 ## 🛠️ Work
 - Currently:
-  - Android at [Lucid Motors](https://lucidmotors.com); Working on Lucid Maps Navigation and Lucid Assistant - Alexa.
+  - Android at [Lucid Motors](https://lucidmotors.com); Working on Lucid Maps Navigation and Lucid Assistant.
 - Previously
   - Android at [Josh](https://myjosh.in/); Working in the Video Engineering Team for Android.
   - Android at [Dailyhunt](https://www.dailyhunt.in/); DHTV for Android Team.
